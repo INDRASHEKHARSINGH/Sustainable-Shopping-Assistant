@@ -1,0 +1,7 @@
+
+@import "tailwindcss";
+/* Hide scrollbars cross-browser */
+
+.active{
+    color:rgb(5, 139, 5);
+}
